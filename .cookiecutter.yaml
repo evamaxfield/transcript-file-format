@@ -1,0 +1,10 @@
+default_context:
+    author_name: "Eva Maxfield Brown"
+    author_email: "evamaxfieldbrown@gmail.com"
+    hosting_github_username_or_org: "CouncilDataProject"
+    project_name: "Transcript File Format"
+    project_slug: "transcript-file-format"
+    python_slug: "transcript_file_format"
+    project_short_description: "A generalized transcript file format and utilities for parsing."
+    hosting_pypi_username: "CouncilDataProject"
+    license: "MIT License"
