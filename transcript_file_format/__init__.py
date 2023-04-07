@@ -15,14 +15,14 @@ import msgspec
 
 from .custom_types import PathLike
 from .structs.sentence.sentence import Sentence  # noqa: F401
-from .structs.transcript.transcript import Transcript  # noqa: F401
+from .structs.transcript.transcript import Transcript
 from .structs.word.word import Word  # noqa: F401
 
 
 def from_json(path: PathLike) -> Transcript:
     with open(path, "rb") as open_f:
         return msgspec.json.decode(open_f.read(), type=Transcript)
-    
+
 
 def to_json(transcript: Transcript, path: PathLike) -> None:
     with open(path, "wb") as open_f:

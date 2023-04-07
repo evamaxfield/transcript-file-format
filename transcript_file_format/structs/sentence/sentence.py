@@ -9,6 +9,7 @@ from .sentence_annotations import SentenceAnnotations
 
 ###############################################################################
 
+
 class Sentence(msgspec.Struct):
     index: int
     start_time: float

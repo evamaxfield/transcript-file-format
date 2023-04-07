@@ -14,6 +14,7 @@ class SectionAnnotation(msgspec.Struct):
     I.e. in a meeting of a council or board a "section" of the meeting
     might be the "Call to Order" section.
     """
+
     name: str
     start_sentence_index: int
     stop_sentence_index: int

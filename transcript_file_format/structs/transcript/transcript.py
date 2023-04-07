@@ -2,14 +2,13 @@
 
 from __future__ import annotations
 
-from typing import Self
-
 import msgspec
 
 from ..sentence.sentence import Sentence
 from .transcript_annotations import TranscriptAnnotations
 
 ###############################################################################
+
 
 class Transcript(msgspec.Struct):
     """
@@ -25,7 +24,7 @@ class Transcript(msgspec.Struct):
     created_datetime: str | None = None
     annotations: TranscriptAnnotations | None = None
 
-    def __repr__(self: Self) -> str:
+    def __repr__(self: Transcript) -> str:
         """Print shortform version of transcript."""
         output = "Transcript("
 
@@ -46,5 +45,3 @@ class Transcript(msgspec.Struct):
 
         # Remove last comma and space and close parentheses
         return (output[:-2] + ")").strip()
-    
-    
