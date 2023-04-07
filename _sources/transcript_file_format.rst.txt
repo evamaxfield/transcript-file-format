@@ -1,0 +1,29 @@
+transcript\_file\_format package
+================================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   transcript_file_format.structs
+
+Submodules
+----------
+
+transcript\_file\_format.custom\_types module
+---------------------------------------------
+
+.. automodule:: transcript_file_format.custom_types
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: transcript_file_format
+   :members:
+   :undoc-members:
+   :show-inheritance:

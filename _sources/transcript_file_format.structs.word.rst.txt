@@ -1,0 +1,29 @@
+transcript\_file\_format.structs.word package
+=============================================
+
+Submodules
+----------
+
+transcript\_file\_format.structs.word.word module
+-------------------------------------------------
+
+.. automodule:: transcript_file_format.structs.word.word
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+transcript\_file\_format.structs.word.word\_annotations module
+--------------------------------------------------------------
+
+.. automodule:: transcript_file_format.structs.word.word_annotations
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: transcript_file_format.structs.word
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,20 @@
+transcript\_file\_format.structs package
+========================================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   transcript_file_format.structs.sentence
+   transcript_file_format.structs.transcript
+   transcript_file_format.structs.word
+
+Module contents
+---------------
+
+.. automodule:: transcript_file_format.structs
+   :members:
+   :undoc-members:
+   :show-inheritance:

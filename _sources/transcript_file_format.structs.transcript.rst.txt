@@ -1,0 +1,37 @@
+transcript\_file\_format.structs.transcript package
+===================================================
+
+Submodules
+----------
+
+transcript\_file\_format.structs.transcript.section\_annotation module
+----------------------------------------------------------------------
+
+.. automodule:: transcript_file_format.structs.transcript.section_annotation
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+transcript\_file\_format.structs.transcript.transcript module
+-------------------------------------------------------------
+
+.. automodule:: transcript_file_format.structs.transcript.transcript
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+transcript\_file\_format.structs.transcript.transcript\_annotations module
+--------------------------------------------------------------------------
+
+.. automodule:: transcript_file_format.structs.transcript.transcript_annotations
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: transcript_file_format.structs.transcript
+   :members:
+   :undoc-members:
+   :show-inheritance:

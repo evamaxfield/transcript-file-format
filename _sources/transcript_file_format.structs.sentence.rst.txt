@@ -1,0 +1,37 @@
+transcript\_file\_format.structs.sentence package
+=================================================
+
+Submodules
+----------
+
+transcript\_file\_format.structs.sentence.sentence module
+---------------------------------------------------------
+
+.. automodule:: transcript_file_format.structs.sentence.sentence
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+transcript\_file\_format.structs.sentence.sentence\_annotations module
+----------------------------------------------------------------------
+
+.. automodule:: transcript_file_format.structs.sentence.sentence_annotations
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+transcript\_file\_format.structs.sentence.speaker\_annotation module
+--------------------------------------------------------------------
+
+.. automodule:: transcript_file_format.structs.sentence.speaker_annotation
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: transcript_file_format.structs.sentence
+   :members:
+   :undoc-members:
+   :show-inheritance:
