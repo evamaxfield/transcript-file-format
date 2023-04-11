@@ -21,13 +21,11 @@ from transcript_file_format import Transcript, Sentence, to_json, from_json
 t = Transcript(
     sentences=[
         Sentence(
-            index=0,
             start_time=0.1,
             end_time=1.2,
             text="hello world",
         ),
         Sentence(
-            index=1,
             start_time=1.4,
             end_time=2.6,
             text="my name is eva",
